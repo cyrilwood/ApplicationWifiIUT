@@ -1,8 +1,7 @@
 Projet d'application Android pour géo-localiser les ponts d'accès Wifi de l'IUT de VITRY.
 
 L'application permet :
-
-          D'avoir les coordonnées (x,y) de notre position en temps réel.
+ D'avoir les coordonnées (x,y) de notre position en temps réel.
 Dans un même champ texte nous allons :
           Récupérer les RSSI -> ce sont les points d'accès wifi qui sont aux alentours de celui de l'IUT  (Etudiants-Paris12)
           . Récupérer les BSSID -> ce sont les adresses MAC
